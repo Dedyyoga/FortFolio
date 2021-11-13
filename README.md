@@ -1,3 +1,3 @@
 # FortFolio
-https://fortfoliodedy.netlify.app/
+https://portfoliodedy.netlify.app/
 V.0.1
